@@ -115,9 +115,3 @@ Se visualiza la matriz de confusión para evaluar el rendimiento en términos de
 
 ---
 
-## 👩‍💻 Autor
-
-**Pamela Romero**  
-Especialista en Costos | Apasionada por el análisis de datos y el aprendizaje automático.
-
----
